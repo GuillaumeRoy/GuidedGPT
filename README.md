@@ -12,7 +12,7 @@ The GuidedGPT JSON prompt guides the conversation, prompting the AI to ask a ser
 
 Follow these steps to utilize the JSON prompt:
 
-1. Copy the contents of the JSON file.
+1. Copy the contents of the 👉 **[JSON file](/GuidedGPT.json)** 👈.
 2. Initiate a new ChatGPT conversation.
 3. Paste the copied contents at the start of the conversation.
 4. Proceed with the conversation as prompted by the AI.
