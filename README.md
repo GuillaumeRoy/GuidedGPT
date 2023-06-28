@@ -6,6 +6,8 @@ This README provides the necessary instructions to fully utilize the GuidedGPT J
 
 Tired of run-of-the-mill, fill-in-the-blanks ChatGPT prompt templates? Welcome to GuidedGPT. This repository contains a complex JSON prompt designed for ChatGPT that turns the tables. Instead of prompting the AI, the AI prompts you. 
 
+👉 **[An example here](https://www.linkedin.com/posts/guillaumer_guidedgpt-sample-activity-7079481704112906240-biS9)** 👈
+
 The GuidedGPT JSON prompt guides the conversation, prompting the AI to ask a series of detailed questions, thereby enhancing the quality of the user-AI interaction. This approach is based on current prompt engineering best practices and is inspired by a talk titled "SCOPING & ESTIMATING ANYTHING IN 5 MINUTES”.
 
 ## Usage Instructions
